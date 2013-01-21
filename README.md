@@ -4,6 +4,6 @@ I can buzz people into my building with a callbox, but I'd like to be able to le
 
 ## Setup
 
-Use the path to `callbox.xml` as your "Voice Request URL" on Twilio.
+Use the URL for `callbox.xml` as your "Voice Request URL" on Twilio.
 
 Set a PIN in `pin.php` and your real phone number in `callbox.xml`.  That's it.
