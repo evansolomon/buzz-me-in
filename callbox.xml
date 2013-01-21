@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Gather action='/pin.php' timeout='5' finishOnKey='#' method='POST'>
+		<Say voice='woman'>One moment, please</Say>
+	</Gather>
+
+	<Dial>123-555-1212</Dial>
+</Response>
